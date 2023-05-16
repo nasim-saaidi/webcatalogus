@@ -1,0 +1,20 @@
+
+/* Put yor own CSS code here when needed */
+
+body,html {
+    min-height: 100%;
+}
+
+.hover:hover {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color:rgba(255, 255, 255, 0.25);
+}
+body {
+    background: url("/img/gray.jpg") center no-repeat;
+    background-size: cover;
+}
+
+.bg-opac-5 {
+    --bs-bg-opacity: .4;
+}
