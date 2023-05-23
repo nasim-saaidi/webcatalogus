@@ -11,7 +11,7 @@ body,html {
     background-color:rgba(255, 255, 255, 0.25);
 }
 body {
-    background: url("../img/gray.jpg") center no-repeat;
+    background: url("/img/gray.jpg") center no-repeat;
     background-size: cover;
 }
 
